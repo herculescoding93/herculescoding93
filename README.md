@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Hercules(Ηρακλής) and i am from Greece! 
+I am very interested in back end development(python mostly) but, my dream job would be at @Airbus because i have a passion for planes, and i believe i could code flight computers some day!
+
+📫 Need any help?: Contact me on my instagram account on on my discord(codingmaster)!
+
+😄 Pronouns: He/Him
+⚡ Fun fact: I realy like heavy metal music, especially iron maiden
 <!--
 **herculescoding93/herculescoding93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
