@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Hercules(Ηρακλής) and i am from Greece! 
-I am very interested in back end development(python mostly) but, my dream job would be at @Airbus because i have a passion for planes, and i believe i could code flight computers some day!
+I am very interested in back end development(python mostly) but, my dream job would be at Rafael since i am really invested in the defense industry
 
 📫 Need any help?: Contact me on my instagram account on on my discord(codingmaster)!
 
